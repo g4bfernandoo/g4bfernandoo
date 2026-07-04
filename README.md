@@ -1,16 +1,39 @@
-## Hi there 👋
+# Gabriel Fernando
 
-<!--
-**g4bfernandoo/g4bfernandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prospective BME researcher** working at the intersection of computational methods and cardiovascular public health.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Focus
+
+> *How can machine learning and health informatics reveal the structural gaps in cardiovascular care — and quantify the cost of those gaps in lives?*
+
+I apply clustering, predictive modeling, and systematic synthesis to publicly available Brazilian health data (DATASUS, SIH-SUS, IBGE) to map disparities in cardiac care access, model post-discharge mortality risk, and support evidence-based health policy.
+
+---
+
+### Active Projects
+
+| Project | Methods | Status |
+|---|---|---|
+| [🗺️ Cardiovascular Care Deserts — Pará, Brazil](./regional-health-disparities-brazil) | K-Means, GeoPandas | 🔄 In progress |
+| [📈 Post-Discharge CV Mortality Prediction](./cardiac-mortality-prediction) | XGBoost, Logistic Regression | 📋 Planned |
+| [🔬 Systematic Review — CV Risk Interventions](./cv-risk-meta-analysis) | PRISMA, Elicit, Python | 📋 Planned |
+
+---
+
+### Tools I Use
+
+`Python` · `pandas` · `scikit-learn` · `XGBoost` · `geopandas` · `matplotlib` · `seaborn` · `Jupyter`
+
+---
+
+### Background
+
+- Applying to **Biomedical Engineering** (undergraduate, international programs, 2025–2026 cycle)
+- Long-term goal: cardiovascular surgery, with a research foundation in surgical outcomes and risk modeling
+- Based in Brazil 🇧🇷
+
+---
+
+*All research repositories use publicly available data. Reproducibility instructions included in each project.*

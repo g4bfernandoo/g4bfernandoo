@@ -16,7 +16,7 @@ I apply clustering, predictive modeling, and systematic synthesis to publicly av
 
 | Project | Methods | Status |
 |---|---|---|
-| [🗺️ Cardiovascular Care Deserts — Pará, Brazil](../regional-health-disparities-brazil) | K-Means, GeoPandas | ✅ Finished |
+| [🗺️ Geographic Concentration of Cardiac Catheterization](../regional-health-disparities-brazil) | K-Means, GeoPandas | ✅ Finished |
 | [📈 Post-Discharge CV Mortality Prediction](../cardiac-mortality-prediction) | XGBoost, Logistic Regression | ✅ Finished |
 | [🔬 Systematic Review — CV Risk Interventions](../cv-risk-meta-analysis) | PRISMA, Elicit, Python | 📋 Planned |
 
